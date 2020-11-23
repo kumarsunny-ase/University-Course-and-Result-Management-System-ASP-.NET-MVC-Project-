@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "UnassignCourses";
+}
+<h3>Courses</h3>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+        <li>@Html.ActionLink("Save Course", "SaveCourse", "Course")</li>
+        <li>@Html.ActionLink("Course Statics", "ViewCourseStatics", "Department")</li>
+        <li>@Html.ActionLink("Course Assign Teacher", "CourseAssaignTeacher", "Department")</li>
+        <li>@Html.ActionLink("Unassign Courses", "UnassignCourses", "Department")</li>
+    </ul>
+</div>
+<br />
+<br />
+@using (Html.BeginForm(null, null, FormMethod.Post, new { @class = "form-horizontal", id = "UnassignCourses" }))
+{
+    <h4>Unassign Courses</h4>
+    <hr/>
+    <div class="form-group">
+        <div class="col-md-4">
+            <button id="unassignCourese" onclick="return confirm('You are unassigning all courses,Are you sure?');" name="unassignCourese" class="btn btn-primary">Unassign Courses</button>
+        </div>
+    </div>
+}
+<div class="form-group">
+    <label class="col-md-4 control-label"></label>
+    <div class="col-md-4 ">
+        @if (ViewBag.Message != null)
+        {
+            <label class="label-success">@ViewBag.Message</label>
+        }
+    </div>
+</div>

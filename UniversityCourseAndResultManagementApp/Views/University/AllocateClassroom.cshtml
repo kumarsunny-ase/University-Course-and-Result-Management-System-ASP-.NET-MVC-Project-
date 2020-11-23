@@ -1,0 +1,219 @@
+﻿@using UniversityCourseAndResultManagementApp.Models
+@{
+    
+    ViewBag.Title = "AllocateClassroom";
+    List<Room> rooms = ViewBag.rooms;
+    List<Course> courses = ViewBag.courses;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-clockpicker.css" rel="stylesheet" />
+    <link href="~/Content/jquery-clockpicker.css" rel="stylesheet" />
+    <style>
+        label.error {
+            color: red;
+            font-style: italic;
+        }
+    </style>
+
+</head>
+<body>
+<h3>Class Room</h3>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+
+        <li>@Html.ActionLink("Allocate Classroom", "AllocateClassroom", "University")</li>
+        <li>@Html.ActionLink("View Schedule", "ShowClassSchedule", "ClassRoom")</li>
+        <li>@Html.ActionLink("Unallocate Classroom", "UnAllocateClassRoom", "ClassRoom")</li>
+    </ul>
+
+</div>
+  
+    <fieldset>
+        <legend>Allocate Classroom</legend>
+
+        <form class="form-horizontal" method="POST" id="AllocateClassroomForm">
+
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="DepartmentId">Department</label>
+                <div class="col-sm-6">
+                    <select id="DepartmentId" name="DepartmentId" class="form-control" onchange="getSelectedDeptId()">
+                        <option value="">Select</option>
+
+                        @foreach (Department department in ViewBag.departments)
+                        {
+                            <option value="@department.Id">@department.Name</option>
+                        }
+
+
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="CourseId">Course</label>
+                <div class="col-sm-6">
+                    <select id="CourseId" name="CourseId" class="form-control"></select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="RoomId">Room</label>
+                <div class="col-sm-6">
+                    <select id="RoomId" name="RoomId" class="form-control">
+                        <option value="">Select</option>
+
+                        @foreach (Room room in rooms)
+                        {
+                            <option value="@room.Id">@room.Name</option>
+                        }
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="Day">Day</label>
+                <div class="col-sm-6">
+                    <select id="Day" name="Day" class="form-control">
+                        <option value="">Select</option>
+                        <option value="Sat">Saturday</option>
+                        <option value="Sun">Sunday</option>
+                        <option value="Mon">Monday</option>
+                        <option value="Tue">Tuesday</option>
+                        <option value="Wed">Wednesday</option>
+                        <option value="Thu">‎Thursday</option>
+                        <option value="Fri">Friay</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="FromTime">From</label>
+                <div class="col-sm-6">
+                    <div id="FromTime" class="input-group clockpicker" data-placement="left" data-align="top" data-autoclose="true">
+                        <input type="text" id="FromTime" name="FromTime" class="form-control" value="10:00">
+
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="ToTime">To</label>
+                <div class="col-sm-6">
+                    <div id="ToTime" class="input-group clockpicker" data-placement="left" data-align="top" data-autoclose="true">
+                        <input type="text" id="ToTime" name="ToTime" class="form-control" value="12:00">
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-default">Allocate</button>
+                </div>
+            </div>
+        </form>
+        @if (ViewBag.msg != null)
+        {
+            <label>@ViewBag.msg</label>
+        }
+    </fieldset>
+
+</div>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js"></script>
+<script src="~/Scripts/bootstrap.js"></script>
+<script src="~/Scripts/bootstrap-clockpicker.js"></script>
+<script src="~/Scripts/bootstrap-datetimepicker.js"></script>
+<script src="~/Scripts/jquery-clockpicker.js"></script>
+<script type="text/javascript">
+    $('.clockpicker').clockpicker();
+</script>
+<script>
+    jQuery(function($) {
+        $("#AllocateClassroomForm").validate({
+            rules: {
+                DepartmentId: "required",
+                CourseId: "required",
+                RoomId: "required",
+                Day: "required",
+                FromTime: "required",
+                ToTime: "required"
+
+            },
+            messages: {
+                DepartmentId: "Please select department",
+                CourseId: "Please select course name",
+                RoomId: "Please select room no",
+                Day: "Please selcet day",
+                FromTime: "Please enter starts from",
+                ToTime: "Please enter to ends"
+            }
+        });
+    });
+</script>
+<script>
+    $(document).ready(function() {
+        $("#DepartmentId").change(function() {
+            var deptId = $("#DepartmentId").val();
+            $("#CourseId").empty();
+            $("#CourseId").append('<option value="">Select</option>');
+            var json = { DepartmentId: deptId };
+            $.ajax({
+                type: "POST",
+                url: '/University/GetCourseByDepartmentId',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function(data) {
+
+                    $.each(data, function(key, value) {
+                        $("#CourseId").append('<option value="' + value.Id + '">' + value.Name + '</option>');
+
+                    });
+                }
+            });
+        });
+    });
+</script>
+<script>
+    $(document).ready(function() {
+        $("#AllocateClassroomForm").validate({
+            rules: {
+                DepartmentId: "required",
+                CourseId: "required",
+                RoomId: "required",
+                Day: "required",
+                FromTime: "required",
+                ToTime: "required"
+
+            },
+            messages: {
+                DepartmentId: "Please select department",
+                CourseId: "Please select course name",
+                RoomId: "Please select room no",
+                Day: "Please selcet day",
+                FromTime: "Please enter starts from",
+                ToTime: "Please enter to ends"
+            }
+        });
+        //$('#FromId').timepicker({
+        //    timeFormat: 'h:mm:ss p'
+        //}); 
+
+        $('#FromTime').clockpicker();
+        $('#ToTime').clockpicker();
+
+    });
+</script>
+</body>
+</html>

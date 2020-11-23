@@ -1,0 +1,99 @@
+﻿@model UniversityCourseAndResultManagementApp.Models.Teacher
+@{
+    ViewBag.Title = "Save Teacher";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save</title>
+    <style>
+        .field-validation-error {
+            color: red;
+        }
+        .row {
+            margin-bottom: 10px
+        }
+    </style>
+</head>
+<body>
+    <h3>Department</h3>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li>@Html.ActionLink("Save Department", "SaveDepartment", "Department")</li>
+            <li>@Html.ActionLink("View Department", "ViewDepartment", "Department")</li>
+            <li>@Html.ActionLink("Save Teacher", "SaveTeacher", "Department")</li>
+        </ul>
+    </div>
+    <br/>
+    <br/>
+    <div class="container">
+        @using (Html.BeginForm())
+        {
+            <h4>Save Teacher</h4>
+            <hr />
+                <div class="row">
+                    @Html.LabelFor(m => m.Name, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Name)
+                    </div>
+                </div>
+                <div class="row">
+                    @Html.LabelFor(m => m.Address, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Address, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Address)
+                    </div>
+                </div>
+                <div class="row">
+                    @Html.LabelFor(m => m.Email, new { @class = "control-label col-md-2"})
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Email)
+                    </div>
+                </div>
+                <div class="row">
+                    @Html.LabelFor(m => m.ContactNo, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.ContactNo, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.ContactNo)
+                    </div>
+                </div>
+                <div class="row">
+                    @Html.LabelFor(m => m.DesignationId, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(m => m.DesignationId, new SelectList(ViewBag.designations, "Value", "Text"), new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.DesignationId)
+                    </div>
+                </div>
+                <div class="row">
+                    @Html.LabelFor(m => m.DepartmentId, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(m => m.DepartmentId, new SelectList(ViewBag.departments, "Value", "Text"), new{@class= "form-control" })
+                        @Html.ValidationMessageFor(m => m.DepartmentId)
+                    </div>
+                </div>
+                <div class="row">
+                    @Html.LabelFor(m => m.CreditTake, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.CreditTake, new{@class= "form-control" })
+                        @Html.ValidationMessageFor(m => m.CreditTake)
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" class="btn btn-primary" value="Save" />
+                    </div>
+                </div>
+                <label>@ViewBag.msg</label>
+        }
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+</body>
+</html>
+

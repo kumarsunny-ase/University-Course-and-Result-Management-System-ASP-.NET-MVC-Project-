@@ -1,0 +1,37 @@
+﻿@using UniversityCourseAndResultManagementApp.Models
+
+@{
+    ViewBag.Title = "ViewDepartment";
+    List<Department> departments = ViewBag.departments;
+}
+<h3>Department</h3>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+        <li>@Html.ActionLink("Save Department", "SaveDepartment", "Department")</li>
+        <li>@Html.ActionLink("View Department", "ViewDepartment", "Department")</li>
+        <li>@Html.ActionLink("Save Teacher", "SaveTeacher", "Department")</li>
+    </ul>
+</div>
+<br />
+<br />
+<div class="container">
+    <h4>View All Departments</h4>
+    <hr />
+    <table id="myTable" class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Department department in departments)
+            {
+                <tr>
+                    <td>@department.Code</td>
+                    <td>@department.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

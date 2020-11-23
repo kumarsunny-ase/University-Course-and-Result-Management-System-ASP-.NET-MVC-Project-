@@ -1,0 +1,136 @@
+﻿@using UniversityCourseAndResultManagementApp.Models
+@model UniversityCourseAndResultManagementApp.Models.Student
+@{
+    ViewBag.Title = "ViewStudentResult";
+    List<Student> studentRegNos = ViewBag.RegNos;
+}
+
+<h2>Student</h2>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+
+
+        <li>@Html.ActionLink("Register", "Save", "Student")</li>
+        <li>@Html.ActionLink("Save Result", "SaveResult", "Enroll")</li>
+        <li>@Html.ActionLink("View Result", "ViewStudentResult", "Student")</li>
+        <li>@Html.ActionLink("Enroll", "Save", "Enroll")</li>
+    </ul>
+
+</div>
+<h4>View Result</h4>
+<br>
+<form class="form-horizontal" id="ViewResultForm" method="POST">
+
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="studentId">
+            Student Reg. No.
+        </label>
+
+        <div class="col-md-4">
+            <select class="form-control" name="studentId" id="studentId">
+                <option value="">--Select--</option>
+                @foreach (var student in studentRegNos)
+                {
+                    <option value="@student.Id">@student.RegNo</option>
+                }
+            </select>
+
+        </div>
+
+    </div>
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Name">Name</label>
+
+        <div class="col-md-4">
+
+            <input readonly type="text" class="form-control" id="Name">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Email">Email</label>
+
+        <div class="col-md-4">
+
+            <input readonly type="text" class="form-control" id="Email">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Department">Department</label>
+
+        <div class="col-md-4">
+
+            <input readonly type="text" class="form-control" id="Department">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="MakePdf"></label>
+        <div class="col-md-4">
+            @*<a href="@Url.Action("GeneratePdf", "Student")">*@<button type="submit" id="MakePdf" name="MakePdf" class="btn btn-primary">Make PDF</button>@*</a>*@
+        </div>
+    </div>
+    </form>
+<div class="form-group">
+    <label class="col-md-4 control-label"></label>
+    <div class="col-md-4 ">
+        @if (ViewBag.Message != null)
+        {
+            <label class="label-success">@ViewBag.Message</label>
+        }
+    </div>
+</div>
+
+
+
+    <table id="resultTable" class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Course Code</th>
+                <th>Name</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+
+    @section scripts
+{
+        <script>
+            $(document).ready(function () {
+                $("#resultTable").hide();
+                $("#studentId").change(function () {
+                    var stdId = $("#studentId").val();
+                    $("#resultTable").show();
+                    $("#tableBody").empty();
+                    var json = { studentId: stdId };
+                    $.ajax({
+                        type: "POST",
+                        url: '/Student/GetStudentInfoById',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function (data) {
+
+                            $("#Name").val(data.Name);
+                            $("#Email").val(data.Email);
+                            $("#Department").val(data.Department);
+                        }
+                    });
+                    $.ajax({
+                        type: "POST",
+                        url: '/Student/GetStudentResultByStudentId',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(json),
+                        success: function (data) {
+
+                            $.each(data, function (key, value) {
+
+
+                                $("#tableBody").append('<tr><td>' + value.CourseCode + '</td><td>' + value.CourseName + '</td><td>' + value.Grade + '</td></tr>');
+
+                            });
+                        }
+                    });
+                });
+            });
+        </script>
+    }

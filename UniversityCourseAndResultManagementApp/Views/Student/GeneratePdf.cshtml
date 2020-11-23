@@ -1,0 +1,83 @@
+﻿@using UniversityCourseAndResultManagementApp.Models
+
+
+
+@{
+    Layout = null;
+    ViewBag.Title = "ShowResult";
+    List<StudentResultVM> studentResults = ViewBag.Result;
+    Student student = ViewBag.Student;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewResult</title>
+
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="~/images/IIUC-Logo.gif" style="width:480px;height:39px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Result sheet</u></h4>
+    
+     <h5 style="float: right" id="date"></h5>
+
+<div>
+
+    <table>
+        <tr>
+            <td><label class="col-md-4 control-label" for="Name">Name</label></td>
+            <td><label class="col-md-4 control-label" for="Name">@student.Name</label></td>
+        </tr>
+        <tr>
+            <td><label class="col-md-4 control-label" for="Email">Email</label></td>
+            <td><label class="col-md-4 control-label" for="Email">@student.Email</label></td>
+        </tr>
+        <tr>
+            <td><label class="col-md-4 control-label" for="Email">Reg No.</label></td>
+            <td><label class="col-md-4 control-label" for="Email">@student.RegNo</label></td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <p>Course wise grades:</p>
+    <table id="myTable" class="table table-bordered table-hover table-striped">
+        <thead>
+        <tr>
+            <th>Course Code</th>
+            <th>Course Name</th>
+            <th>Grade</th>
+        </tr>
+
+        </thead>
+        <tbody id="tableBody">
+        @foreach (StudentResultVM studentResult in studentResults)
+        {
+            <tr>
+                <td>@studentResult.CourseCode</td>
+                <td>@studentResult.CourseName</td>
+                <td>@studentResult.Grade</td>
+            </tr>
+
+        }
+        </tbody>
+    </table>
+</div>
+    <script>
+        n = new Date();
+        y = n.getFullYear();
+        m = n.getMonth() + 1;
+        d = n.getDate();
+        document.getElementById("date").innerHTML = "Date: "+ m + "/" + d + "/" + y;
+    </script>
+</body>
+</html>

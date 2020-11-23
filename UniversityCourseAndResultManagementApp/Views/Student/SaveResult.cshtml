@@ -1,0 +1,132 @@
+﻿@using UniversityCourseAndResultManagementApp.Models
+
+@{
+    ViewBag.Title = "SaveResult";
+}
+
+<h3>Student</h3>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+
+
+        <li>@Html.ActionLink("Register", "SaveDepartment", "Department")</li>
+        <li>@Html.ActionLink("Save Result", "ViewDepartment", "Department")</li>
+        <li>@Html.ActionLink("View Result", "SaveTeacher", "Department")</li>
+        <li>@Html.ActionLink("Enroll", "Save", "Enroll")</li>
+    </ul>
+
+</div>
+<h4>Save Result</h4>
+@using (Html.BeginForm(null, null, FormMethod.Post, new {@class = "form-horizontal", id = "saveResult"}))
+{
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="Id">Reg No</label>
+        <div class="col-sm-6">
+            <select id="Id" name="Id" class="form-control" onchange="getSelectedRegID()">
+                <option value="">Select</option>
+
+                @foreach (Student student in ViewBag.students)
+                {
+                    <option value="@student.Id">@student.RegNo</option>
+                }
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+                    <label class="control-label col-sm-2" for="Name">Name</label>
+                    <div class="col-sm-6">
+                        <input id="Name" name="Name" enabled="False" />
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="Email">Email</label>
+                    <div class="col-sm-6">
+                        <input id="Email" name="Email" />
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="Code">Department</label>
+                    <div class="col-sm-6">
+                        <input id="Code" name="Code" enabled="False" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="CourseId">Select Course</label>
+                    <div class="col-sm-6">
+                        <select id="CourseId" name="CourseId" class="form-control"></select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" for="Grade">Grade</label>
+                    <div class="col-sm-6">
+                        <select id="Grade" name="Grade" class="form-control">
+                            <option value="">Select</option>
+                            <option value="A+">A+</option>
+                            <option value="A">A</option>
+                            <option value="A-">A-</option>
+                            <option value="B+">B+</option>
+                            <option value="B">B</option>
+                            <option value="B-">‎B-</option>
+                            <option value="C+">‎C+</option>
+                            <option value="C">‎C</option>
+                            <option value="C-">C-</option>
+                            <option value="D+">‎D+</option>
+                            <option value="D">‎D</option>
+                            <option value="D-">‎D-</option>
+                            
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-6">
+                    </div>
+                    <div class="col-sm-offset-2 col-sm-10">
+                        <button type="submit" class="btn btn-default">Save</button>
+                    </div>
+                </div>
+          
+}
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#Id").change(function () {
+            var id = $("#Id").val();
+            $("#Name").empty();
+            $("#Email").empty();
+            $("#Code").empty();
+            $("#CourseId").empty();
+            $("#CourseId").append('<option value="">Select</option>');
+            var json = { Id: id };
+            $.ajax({
+                type: "POST",
+                url: '/Enroll/GetStudentInformation',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    $("#Name").val(data.Name);
+                    $("#Email").val(data.Email);
+                    $("#Code").val(data.Code);
+                    $.each(data.Courses, function (key, value) {
+                        $("#CourseId").append('<option value="' + value.Id + '">' + value.Name + '</option>');
+
+                    });
+                }
+            });
+        });
+
+    });
+</script>
+
+}

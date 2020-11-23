@@ -1,0 +1,170 @@
+﻿@using UniversityCourseAndResultManagementApp.Models
+
+@{
+    ViewBag.Title = "SaveResult";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save Result</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <style>
+        label.error {
+            color: red;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h2>Student</h2>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+
+
+        <li>@Html.ActionLink("Register", "Save", "Student")</li>
+        <li>@Html.ActionLink("Save Result", "SaveResult", "Enroll")</li>
+        <li>@Html.ActionLink("View Result", "ViewStudentResult", "Student")</li>
+        <li>@Html.ActionLink("Enroll", "Save", "Enroll")</li>
+    </ul>
+
+</div>
+<div>
+
+    <fieldset>
+        <legend>Save Student Result</legend>
+        <form class="form-horizontal" method="POST" id="SaveResult">
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="Id">Reg No</label>
+                <div class="col-sm-6">
+                    <select id="Id" name="Id" class="form-control" onchange="">
+                        <option value="">Select</option>
+
+                        @foreach (Student student in ViewBag.students)
+                        {
+                            <option value="@student.Id">@student.RegNo</option>
+                        }
+
+
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="Name">Name</label>
+                <div class="col-sm-6">
+                    <input id="Name" name="Name" disabled="disabled"/>
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="Email">Email</label>
+                <div class="col-sm-6">
+                    <input id="Email" name="Email" disabled="disabled"/>
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="Code">Department</label>
+                <div class="col-sm-6">
+                    <input id="Code" name="Code" disabled="disabled"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="CourseId">Select Course</label>
+                <div class="col-sm-6">
+                    <select id="CourseId" name="CourseId" class="form-control"></select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="Grade">Grade</label>
+                <div class="col-sm-6">
+                    <select id="Grade" name="Grade" class="form-control">
+                        <option value="">Select</option>
+                        <option value="A+">A+</option>
+                        <option value="A">A</option>
+                        <option value="A-">A-</option>
+                        <option value="B+">B+</option>
+                        <option value="B">B</option>
+                        <option value="B-">‎B-</option>
+                        <option value="C+">‎C+</option>
+                        <option value="C">‎C</option>
+                        <option value="C-">C-</option>
+                        <option value="D+">‎D+</option>
+                        <option value="D">‎D</option>
+                        <option value="D-">‎D-</option>
+
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-6">
+                </div>
+                <div class="col-sm-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-default">Save</button>
+                </div>
+            </div>
+        </form>
+    </fieldset>
+    @if (ViewBag.msg != null)
+    {
+        <label>@ViewBag.msg</label>
+    }
+</div>
+@section scripts{
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#Id").change(function() {
+                var id = $("#Id").val();
+                $("#Name").empty();
+                $("#Email").empty();
+                $("#Code").empty();
+                $("#CourseId").empty();
+                $("#CourseId").append('<option value="">Select</option>');
+                var json = { Id: id };
+                $.ajax({
+                    type: "POST",
+                    url: '/Enroll/GetStudentInformation',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function(data) {
+                        $("#Name").val(data.Name);
+                        $("#Email").val(data.Email);
+                        $("#Code").val(data.Code);
+                        $.each(data.Courses, function(key, value) {
+                            $("#CourseId").append('<option value="' + value.Id + '">' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            });
+
+            $("#SaveResult").validate({
+                rules: {
+                    Id: "required",
+                    CourseId: "required",
+                    Grade: "required"
+
+                },
+                messages: {
+                    Id: "Please select Student Reg No",
+                    CourseId: "Please select any Course",
+                    Grade: "Please select any grade"
+                }
+            });
+
+        });
+    </script>
+}
+</body>
+</html>
+
+

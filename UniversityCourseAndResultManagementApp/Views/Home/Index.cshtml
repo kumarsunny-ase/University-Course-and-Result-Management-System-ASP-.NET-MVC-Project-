@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<br />
+<div class="jumbotron">
+    <h2 style="font-size: 42px">University Course and Result Management System</h2>
+    <p class="lead">This application has been developed with ASP.NET MVC using HTML, CSS and JavaScript.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Departments</h2>
+        <p>
+            Add new Department, View Department, Add a Teacher
+        </p>
+        <p><a class="btn btn-success" href="@Url.Action("Index","Department")">Go &raquo;</a></p>
+    </div>
+    <div class="col-md-4" style="border-left: 1px solid gray;border-right: 1px solid gray">
+        <h2>Courses</h2>
+        <p>Add new Course, View courses, Assign Course to a Teacher, Unassign Course.</p>
+        <p><a class="btn btn-success" href="@Url.Action("Index","Course")">Go &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Students</h2>
+        <p>Add a Student, Enroll course, Save result for Student, View Result</p>
+        <p><a class="btn btn-success" href="@Url.Action("Index","Student")">Go &raquo;</a></p>
+    </div>
+</div>

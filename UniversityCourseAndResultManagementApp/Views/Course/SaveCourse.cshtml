@@ -1,0 +1,92 @@
+﻿@model UniversityCourseAndResultManagementApp.Models.Course
+@{
+    ViewBag.Title = "SaveCourse";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Save</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <style>
+        .field-validation-error {
+            color: red;
+        }
+
+        .row {
+            margin-bottom: 10px
+        }
+    </style>
+</head>
+<body>
+    <h3>Courses</h3>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li>@Html.ActionLink("Save Course", "SaveCourse", "Course")</li>
+            <li>@Html.ActionLink("Course Statics", "ViewCourseStatics", "Department")</li>
+            <li>@Html.ActionLink("Course Assign Teacher", "CourseAssaignTeacher", "Department")</li>
+            <li>@Html.ActionLink("Unassign Courses", "UnassignCourses", "Department")</li>
+        </ul>
+    </div>
+    <br />
+    <br />
+    <div class="container">
+        @using (Html.BeginForm())
+        {
+            <h4>Save Course</h4>
+            <hr />
+            <div class="row">
+                @Html.LabelFor(m => m.Code, new { @class = "col-md-2" })
+                <div class="col-md-9">
+                    @Html.TextBoxFor(m => m.Code, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Code)
+                </div>
+            </div>
+            <div class="row">
+                @Html.LabelFor(m => m.Name, new { @class = "col-md-2" })
+                <div class="col-md-9">
+                    @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Name)
+                </div>
+            </div>
+            <div class="row">
+                @Html.LabelFor(m => m.Credit, new { @class = "col-md-2" })
+                <div class="col-md-9">
+                    @Html.TextBoxFor(m => m.Credit, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Credit)
+                </div>
+            </div>
+            <div class="row">
+                @Html.LabelFor(m => m.Description, new { @class = "col-md-2" })
+                <div class="col-md-9">
+                    @Html.TextBoxFor(m => m.Description, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Description)
+                </div>
+            </div>
+            <div class="row">
+                @Html.LabelFor(m => m.DepartmentId, new { @class = "col-md-2" })
+                <div class="col-md-9">
+                    @Html.DropDownListFor(m => m.DepartmentId, new SelectList(ViewBag.departments, "Value", "Text"), new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.DepartmentId)
+                </div>
+            </div>
+            <div class="row">
+                @Html.LabelFor(m => m.SemesterId, new { @class = "col-md-2" })
+                <div class="col-md-9">
+                    @Html.DropDownListFor(m => m.SemesterId, new SelectList(ViewBag.semesters, "Value", "Text"), new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.SemesterId)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" class="btn btn-primary" value="Save" />
+                </div>
+            </div>
+            <label>@ViewBag.msg</label>
+        }
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+</body>
+</html>

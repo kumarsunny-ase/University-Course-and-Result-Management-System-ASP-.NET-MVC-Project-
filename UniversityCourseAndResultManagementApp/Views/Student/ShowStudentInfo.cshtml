@@ -1,0 +1,70 @@
+﻿@using UniversityCourseAndResultManagementApp.Models
+
+@{
+    
+    Student student = ViewBag.Student;
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowStudentInfo</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+
+</head>
+<body>
+    <dl class="dl-horizontal">
+        <dt>
+            <label class="col-md-4 control-label" for="Name">Name</label>
+        </dt>
+
+        <dd>
+            <label class="col-md-4 control-label" for="Name">@student.Name</label>
+        </dd>
+        <dt>
+            <label class="col-md-4 control-label" for="Email">Email</label>
+            
+        </dt>
+
+        <dd>
+            <label class="col-md-4 control-label" for="Email">@student.Email</label>
+        </dd>
+        <dt>
+            <label class="col-md-4 control-label" for="ContactNo">Contact No.</label>
+        </dt>
+
+        <dd>
+            <label class="col-md-4 control-label" for="ContactNo">@student.ContactNo</label>
+        </dd>
+        <dt>
+            <label class="col-md-4 control-label" for="Department">Department</label>
+        </dt>
+
+        <dd>
+            <label class="col-md-4 control-label" for="Department">@student.Department</label>
+        </dd>
+        <dt>
+            <label class="col-md-4 control-label" for="RegNo">Reg No.</label>
+        </dt>
+
+        <dd>
+            <label class="col-md-4 control-label" for="RegNo">@student.RegNo</label>
+        </dd>
+        <dt>
+            <label class="col-md-4 control-label" for="Address">Address</label>
+        </dt>
+
+        <dd>
+            <label class="col-md-4 control-label" for="Address">@student.Address</label>
+        </dd>
+    </dl>
+
+
+
+</body>
+</html>

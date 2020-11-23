@@ -1,0 +1,136 @@
+﻿@model UniversityCourseAndResultManagementApp.Models.Student
+
+
+@{
+    ViewBag.Title = "Register";
+    
+}
+
+@section style
+{
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/datepicker.css" rel="stylesheet" />
+<link href="~/Content/jquery-ui.css" rel="stylesheet" />
+<link href="~/Content/Site.css" rel="stylesheet" />
+
+<style>
+    .field-validation-error {
+        font-style: italic;
+        color: red;
+    }
+</style>
+
+
+    
+}
+   
+
+    <h3>Student</h3>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+
+
+        <li>@Html.ActionLink("Register", "Save", "Student")</li>
+        <li>@Html.ActionLink("Save Result", "SaveResult", "Enroll")</li>
+        <li>@Html.ActionLink("View Result", "ViewStudentResult", "Student")</li>
+        <li>@Html.ActionLink("Enroll", "Save", "Enroll")</li>
+    </ul>
+
+</div>
+<h4>Register</h4>
+
+<br/>
+    @using (Html.BeginForm(null,null,FormMethod.Post,new { @class = "form-horizontal", id = "saveStudentForm" }))
+    {
+        
+            <div class="form-group">
+                @Html.LabelFor(m => m.Name, new {@class = "col-md-4 control-label"})
+                <div class="col-md-4">
+                    @Html.TextBoxFor(m => m.Name, new {@class = "form-control input-md"})
+                    @Html.ValidationMessageFor(m => m.Name)
+                </div>
+                
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Email, new {@class = "col-md-4 control-label"})
+                <div class="col-md-4">
+                    @Html.TextBoxFor(m => m.Email, new {@class = "form-control input-md"})
+                    @Html.ValidationMessageFor(m => m.Email)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.ContactNo, new {@class = "col-md-4 control-label"})
+                <div class="col-md-4">
+                    @Html.TextBoxFor(m => m.ContactNo, new {@class = "form-control input-md"})
+                    @Html.ValidationMessageFor(m => m.ContactNo)
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Date">Date</label>
+                <div class="col-md-4">
+                    <input id="Date" name="Date" type="text" placeholder="dd-mm-yyyy" class="form-control input-md">
+
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.DepartmentId, new {@class = "col-md-4 control-label"})
+                <div class="col-md-4">
+                    @Html.DropDownListFor(x => x.DepartmentId, new SelectList(ViewBag.Departments, "Value", "Text"),new {@class = "form-control input-md"})
+                    @Html.ValidationMessageFor(m => m.DepartmentId)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Address, new {@class = "col-md-4 control-label"})
+                <div class="col-md-4">
+                    @Html.TextBoxFor(m => m.Address, new {@class = "form-control input-md"})
+                    @Html.ValidationMessageFor(m => m.Address)
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Register"></label>
+                <div class="col-md-4">
+                    <button id="Register" name="Register" class="btn btn-primary">Register</button>
+</div>
+            </div>
+       
+    }
+    <div class="form-group">
+        <label class="col-md-4 control-label" ></label>
+        <div class="col-md-4 ">
+            @if (ViewBag.Message != null)
+            {
+                <label class="label-success">@ViewBag.Message</label>
+            }
+        </div>
+    </div>
+
+    
+
+    @section Scripts {
+        
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $("#Date").datepicker({
+                dateFormat: 'dd-mm-yy',
+                changeMonth: true,
+                yearRange: '1990:2030',
+                changeYear: true,
+                gotoCurrent: true
+
+            }).datepicker('setDate', "0");
+
+
+
+        });
+
+    </script>
+
+    }
+    
+
+

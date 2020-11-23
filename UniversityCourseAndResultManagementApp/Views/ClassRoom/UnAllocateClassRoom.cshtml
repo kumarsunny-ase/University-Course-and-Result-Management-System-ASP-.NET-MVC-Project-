@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewBag.Title = "UnAllocateClassRoom";
+}
+
+<h3>Class Room</h3>
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+
+        <li>@Html.ActionLink("Allocate Classroom", "AllocateClassroom", "University")</li>
+        <li>@Html.ActionLink("View Schedule", "ShowClassSchedule", "ClassRoom")</li>
+        <li>@Html.ActionLink("Unallocate Classroom", "UnAllocateClassRoom", "ClassRoom")</li>
+    </ul>
+
+</div>
+<h3>Unallocate ClassRoom</h3>
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new {@class = "form-horizontal", id = "UnAllocateClassRoom"}))
+{
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="unAllocateClassRoom"></label>
+    <div class="col-md-4">
+        <button id="unAllocateClassRoom" onclick="return confirm('You are unallocationg all classrooms ,Are you sure?');" name="unAllocateClassRoom" class="btn btn-primary">Unallocate ClassRoom</button>
+    </div>
+</div>
+}
+<div class="form-group">
+    <label class="col-md-4 control-label"></label>
+    <div class="col-md-4 ">
+        @if (ViewBag.Message != null)
+        {
+            <label class="label-success">@ViewBag.Message</label>
+        }
+    </div>
+</div>
+@*<h2>Index</h2>
+
+<p>This is some content! This is some content! This is some content! This is some content! This is some content! This is some content! </p>
+
+<button id="modal-opener">Open Dialog</button>
+
+<div id="dialog-modal" title="Basic modal dialog">
+    <p>This is a test modal popup</p>
+</div>*@
+@section Scripts {
+
+    <script>
+       
+        //$(function () {
+        //    $("#dialog-modal").dialog({
+        //        autoOpen: false,
+        //        width: 300,
+        //        height: 250,
+        //        show: {
+        //            effect: "blind",
+        //            duration: 1000
+        //        },
+        //        hide: {
+        //            effect: "explode",
+        //            duration: 1000
+        //        }
+        //    });
+
+        //    $("#unAllocateClassRoom").click(function () {
+        //        $("#dialog-modal").dialog("open");
+        //    });
+        //});
+    </script>
+    }

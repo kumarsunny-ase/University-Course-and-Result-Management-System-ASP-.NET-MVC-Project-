@@ -1,0 +1,838 @@
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+E:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up1\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\151142\Final Project\Up3\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up4\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\151142\Final Project\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+E:\Nahid(B31 )\Final project\Up5\Up5\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\Final Project\Up1\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\Final Project\UpRar\UniversityCourseAndResultManagementAppFinal(24.11.2016)\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+D:\BITM\Final Project\UP2\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojResolveAssemblyReference.cache
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+E:\Nahid(B31 )\Final project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csproj.CoreCompileInputs.cache
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csproj.CopyComplete
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+G:\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll.config
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\UniversityCourseAndResultManagementApp.pdb
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Web.Infrastructure.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Owin.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Rotativa.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\WebGrease.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Helpers.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Mvc.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Optimization.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.Razor.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Deployment.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\System.Web.WebPages.Razor.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Newtonsoft.Json.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Antlr3.Runtime.pdb
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\EntityFramework.SqlServer.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Google.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csproj.CoreCompileInputs.cache
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csproj.CopyComplete
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.dll
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.pdb
+G:\Portfolio Project\UniversityCourseAndResultManagementApp\UniversityCourseAndResultManagementApp\obj\Debug\UniversityCourseAndResultManagementApp.csprojAssemblyReference.cache
